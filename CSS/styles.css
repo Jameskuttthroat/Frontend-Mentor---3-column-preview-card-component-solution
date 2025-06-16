@@ -15,27 +15,29 @@ p {
   font-weight: 400;
 }
 
+/*
 .container {
   display: flex;
 }
+*/
 
 .top-container {
   background-color: hsl(31, 77%, 52%);
-  width: 1440px;
+  width: 375px;
   height: 400px;
   padding: 40px;
 }
 
 .middle-container {
   background-color: hsl(184, 100%, 22%);
-  width: 1440px;
+  width: 375px;
   height: 400px;
   padding: 40px;
 }
 
 .bottom-container {
   background-color: hsl(179, 100%, 13%);
-  width: 1440px;
+  width: 375px;
   height: 400px;
   padding: 40px;
 }
